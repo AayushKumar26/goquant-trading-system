@@ -1,0 +1,4 @@
+﻿build/
+*.o
+*.exe
+config/config.json
