@@ -108,9 +108,6 @@ sudo apt install libboost-all-dev libssl-dev libcurl4-openssl-dev
 3. **Build errors**:
    - Ensure all dependencies (Boost, OpenSSL, cURL) are installed and properly linked.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - [Deribit API Documentation](https://docs.deribit.com/)
 - [nlohmann/json](https://github.com/nlohmann/json)
